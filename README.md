@@ -229,3 +229,10 @@ This project covers:
 `GUI development` · `SQLite ORM-style patterns` · `Regex parsing` · `Data visualization` ·
 `File handling` · `OCR pipeline` · `PDF generation` · `Multithreading` · `OOP architecture` ·
 `Dark theme UI` · `Modular Python packaging`
+
+---
+
+## AUTHOR
+### MAYANK KUMAR
+B. Tech. CSE
+Lovely Professional University
